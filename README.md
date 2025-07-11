@@ -1,2 +1,2 @@
-# Schwa3.github.io
+# Schwa.github.io
 Hello World
