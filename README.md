@@ -1,2 +1,0 @@
-# schwa
-Hello World
